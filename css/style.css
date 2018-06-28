@@ -1,0 +1,18 @@
+body{
+    background-color: silver;
+}
+div{
+   
+    width: 500px;
+    margin: auto;
+    /*border: 1px solid fuchsia;*/
+}
+
+.favouriteQuotes{
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   text-align: center;
+  /* height: 70px;*/
+}
+
